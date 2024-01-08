@@ -1,0 +1,3 @@
+{
+    /* Empty. Prevents VS Code from complaining about missing tsconfig.json. */
+}
